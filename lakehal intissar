@@ -171,7 +171,6 @@ scanf("%d", &arr[i]);
 }
 for (int i = 0; i < 5 / 2; i++) {
 
-intissar Lk🩷, [04/01/2025 15:54]
 temp = arr[i];
 arr[i] = arr[4 - i];
 arr[4 - i] = temp;
